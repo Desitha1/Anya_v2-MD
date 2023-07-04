@@ -23,25 +23,25 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 
 
 global.botname = "Queen Anya" 
-global.author = "Enter Author Name Here"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
-global.myweb = "Enter Your Any Website Profile Link Here"
-global.footer = "©\t" + "Enter Your Watermark Here"
+global.author = "么° 🄼 DESH 🥀 | ❤️"  
+global.packname = "Create By"  
+global.myweb = "....."
+global.footer = "©\t" + "么° 🄼 DESH 🥀 | ❤️"
 global.prefa = ['-'] // single prefix
 global.themeemoji = "🎐"
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
 
-global.ownername = "Enter Owner Name Here"    
-global.ownernumber = ["918811074852"]
-global.ytname = "YT: Enter Your Channel Name Here"
+global.ownername = "Mr DESH ツ"    
+global.ownernumber = ["94726662843"]
+global.ytname = "YT: ....."
 global.continent = "Asia" // your continent name 
-global.region = "Enter Your Country Name Here"
-global.state = "Enter Your State Name Here" // your state name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "Enter Your Insta ID Here"
-global.email = "Enter Your Email ID Here"
+global.region = "Sri Lanka"
+global.state = "©MRDESH." // your state name
+global.timezone = "Asia/colombo" // search on google if you don't know the timezone of your country //
+global.instagramId = ".."
+global.email = ".."
 
 
 // Greeting messages
